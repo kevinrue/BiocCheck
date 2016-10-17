@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+BiocCheck.Rproj
+vignettes/*.md
+vignettes/*.R
+vignettes/*.html
+vignettes/sync.sh
+*.so
+*.o
